@@ -8,8 +8,13 @@ export default function Home() {
       <header className="bg-white shadow">
         <div className="max-w-7xl mx-auto py-6 px-4">
           <h1 className="text-3xl font-bold text-gray-900">
-            OpenDental Management Dashboard
+            OpenDental Management Dashboard (Work in Progress)
           </h1>
+          <h2>
+            <span className="text-2xl font-bold text-gray-900">Requirements per Provider (Mike): </span>
+            <span className="text-2xl font-bold text-gray-900">1. </span>
+            <span className="text-2xl font-bold text-gray-900">2. </span> 
+          </h2>
         </div>
       </header>
       <main>
